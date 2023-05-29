@@ -20,12 +20,12 @@
 !
 ! ----------------------------------- !
 !
-||ceskatelevize||
+||ceskatelevize.cz
 !||ctfs.ceskatelevize
 !||img.ceskatelevize
 !||imgct.ceskatelevize
-||rozhlas||
-||irozhlas||
+||rozhlas.cz
+||irozhlas.cz
 !||data.rozhlas.cz
 ||
 !
