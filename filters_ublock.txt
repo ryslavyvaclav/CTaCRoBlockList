@@ -20,20 +20,21 @@
 !
 ! ----------------------------------- !
 !
-||ceskatelevize.cz
-!||ctfs.ceskatelevize
-!||img.ceskatelevize
-!||imgct.ceskatelevize
-||rozhlas.cz
-||irozhlas.cz
-!||data.rozhlas.cz
+||ceskatelevize.
+||rozhlas.
+||irozhlas.
+||mujrozhlas.
+!||
+!||
+!||
 ||
 !
 ! --------------- 3rd party blocking rules --------------- !
 !
-||ceskatelevize.cz^$third-party
-||rozhlas.cz^$third-party
-||irozhlas.cz^$third-party
+||ceskatelevize.^$third-party
+||rozhlas.^$third-party
+||irozhlas.^$third-party
+||mujrozhlas.^$third-party
 !
 ! --------------- Whitelisted blocking rules --------------- !
 !
