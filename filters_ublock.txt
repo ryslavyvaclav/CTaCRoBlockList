@@ -20,10 +20,10 @@
 !
 ! ----------------------------------- !
 !
-||ceskatelevize.
-||rozhlas.
-||irozhlas.
-||mujrozhlas.
+||ceskatelevize
+||rozhlas
+||irozhlas
+||mujrozhlas
 !||
 !||
 !||
@@ -31,10 +31,10 @@
 !
 ! --------------- 3rd party blocking rules --------------- !
 !
-||ceskatelevize.^$third-party
-||rozhlas.^$third-party
-||irozhlas.^$third-party
-||mujrozhlas.^$third-party
+||ceskatelevize^$third-party
+||rozhlas^$third-party
+||irozhlas^$third-party
+||mujrozhlas^$third-party
 !
 ! --------------- Whitelisted blocking rules --------------- !
 !
