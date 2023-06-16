@@ -1,41 +1,24 @@
 [Pro lidi co nechtějí navštěvovat a využívat ČT nebo ČRo online]
 
 ! ----------------------------------- !
-!
--reklama.
-.com/bannery/
-.cz/ads/
-.cz/BAN/
-.cz/banners/
-.cz/bannery_
-.cz/img/banner
-.etargetnet.
-.sk/img/banner
-/cron.php?rand=
-/emonitor.
-/komercni-sdeleni/*
-/push-ads.
-/reklama_
-/reklamne-
-!
-! ----------------------------------- !
-!
+
 ||ceskatelevize.cz
 ||rozhlas.cz
 ||irozhlas.cz
 ||mujrozhlas.cz
 ||radioteka.cz
+
 ceskatelevize.cz
 rozhlas.cz
 irozhlas.cz
 mujrozhlas.cz
 radioteka.cz
 
-0.0.0.0 ceskatelevize.cz
-0.0.0.0 rozhlas.cz
-0.0.0.0 irozhlas.cz
-0.0.0.0 mujrozhlas.cz
-0.0.0.0 radioteka.cz
+0.0.0.0 www.ceskatelevize.cz
+0.0.0.0 www.rozhlas.cz
+0.0.0.0 www.irozhlas.cz
+0.0.0.0 www.mujrozhlas.cz
+0.0.0.0 www.radioteka.cz
 0.0.0.0 ct24.ceskatelevize.cz
 0.0.0.0 edu.ceskatelevize.cz
 0.0.0.0 art.ceskatelevize.cz
@@ -47,30 +30,27 @@ radioteka.cz
 0.0.0.0 portal.rozhlas.cz
 0.0.0.0 informace.rozhlas.cz
 0.0.0.0 dvojka.rozhlas.cz
-0.0.0.0 pribehrozhlasu.cz
+0.0.0.0 www.pribehrozhlasu.cz
 0.0.0.0 radiozurnal.rozhlas.cz
+0.0.0.0 plus.rozhlas.cz
 
-!||
-!||
-!
-! ----------------------------------- !
-!
 ||ceskatelevize.cz^$third-party
 ||rozhlas.cz^$third-party
 ||irozhlas.cz^$third-party
 ||mujrozhlas.cz^$third-party
 ||radioteka.cz^$third-party
+
 ceskatelevize.cz^$third-party
 rozhlas.cz^$third-party
 irozhlas.cz^$third-party
 mujrozhlas.cz^$third-party
 radioteka.cz^$third-party
 
-0.0.0.0 ceskatelevize.cz^$third-party
-0.0.0.0 rozhlas.cz^$third-party
-0.0.0.0 irozhlas.cz^$third-party
-0.0.0.0 mujrozhlas.cz^$third-party
-0.0.0.0 radioteka.cz^$third-party
+0.0.0.0 www.ceskatelevize.cz^$third-party
+0.0.0.0 www.rozhlas.cz^$third-party
+0.0.0.0 www.irozhlas.cz^$third-party
+0.0.0.0 www.mujrozhlas.cz^$third-party
+0.0.0.0 www.radioteka.cz^$third-party
 0.0.0.0 ct24.ceskatelevize.cz^$third-party
 0.0.0.0 edu.ceskatelevize.cz^$third-party
 0.0.0.0 art.ceskatelevize.cz^$third-party
@@ -82,52 +62,6 @@ radioteka.cz^$third-party
 0.0.0.0 portal.rozhlas.cz^$third-party
 0.0.0.0 informace.rozhlas.cz^$third-party
 0.0.0.0 dvojka.rozhlas.cz^$third-party
-0.0.0.0 pribehrozhlasu.cz^$third-party
+0.0.0.0 www.pribehrozhlasu.cz^$third-party
 0.0.0.0 radiozurnal.rozhlas.cz^$third-party
-!||
-!||
-!
-! ----------------------------------- !
-!
-###adRectangle
-##[id^="etarget"]
-###onlajny-stickers
-###promo-box
-###reklama-etarget
-###reklamni-box
-###reklamy
-###sklik
-###slevomat_ad
-###topbanner
-###zivefirmy
-##.adform-adbox
-##.bx-leaderboard
-##.cnc-ads
-##.etarget
-##.hp-advert
-##.jobscz
-##.reklama-3
-##.reklama-bottom
-##.reklama-box
-##.reklama-left
-##.reklama-lista
-##.reklama-megaboard
-##.reklama-right
-##.reklama-top
-##.reklamaBottom
-##.reklamaHorniLista
-##.reklama_ahead
-##.reklama_square
-##.rklm
-##.sklik
-##.sklik-block
-##.sklik-box
-##.sklik_left
-##.sklik_right
-##.topreklama
-##.vreklama
-##[id^="aswift"]
-##[id^="sklikReklama"]
-##[id^="sm-ad"]
-
-
+0.0.0.0 plus.rozhlas.cz^$third-party
