@@ -7,12 +7,46 @@
 ||irozhlas.cz
 ||mujrozhlas.cz
 ||radioteka.cz
+||ct24.ceskatelevize.cz
+||edu.ceskatelevize.cz
+||art.ceskatelevize.cz
+||decko.ceskatelevize.cz
+||sport.ceskatelevize.cz
+||digital.rozhlas.cz
+||poplatek.rozhlas.cz
+||temata.rozhlas.cz
+||portal.rozhlas.cz
+||informace.rozhlas.cz
+||dvojka.rozhlas.cz
+||www.pribehrozhlasu.cz
+||radiozurnal.rozhlas.cz
+||plus.rozhlas.cz
+||regiony.rozhlas.cz
+||wave.rozhlas.cz
+||vltava.rozhlas.cz
 
 ceskatelevize.cz
 rozhlas.cz
 irozhlas.cz
 mujrozhlas.cz
 radioteka.cz
+ct24.ceskatelevize.cz
+edu.ceskatelevize.cz
+art.ceskatelevize.cz
+decko.ceskatelevize.cz
+sport.ceskatelevize.cz
+digital.rozhlas.cz
+poplatek.rozhlas.cz
+temata.rozhlas.cz
+portal.rozhlas.cz
+informace.rozhlas.cz
+dvojka.rozhlas.cz
+www.pribehrozhlasu.cz
+radiozurnal.rozhlas.cz
+plus.rozhlas.cz
+regiony.rozhlas.cz
+wave.rozhlas.cz
+vltava.rozhlas.cz
 
 0.0.0.0 www.ceskatelevize.cz
 0.0.0.0 www.rozhlas.cz
@@ -33,18 +67,55 @@ radioteka.cz
 0.0.0.0 www.pribehrozhlasu.cz
 0.0.0.0 radiozurnal.rozhlas.cz
 0.0.0.0 plus.rozhlas.cz
+0.0.0.0 regiony.rozhlas.cz
+0.0.0.0 wave.rozhlas.cz
+0.0.0.0 vltava.rozhlas.cz
 
 ||ceskatelevize.cz^$third-party
 ||rozhlas.cz^$third-party
 ||irozhlas.cz^$third-party
 ||mujrozhlas.cz^$third-party
 ||radioteka.cz^$third-party
+||ct24.ceskatelevize.cz^$third-party
+||edu.ceskatelevize.cz^$third-party
+||art.ceskatelevize.cz^$third-party
+||decko.ceskatelevize.cz^$third-party
+||sport.ceskatelevize.cz^$third-party
+||digital.rozhlas.cz^$third-party
+||poplatek.rozhlas.cz^$third-party
+||temata.rozhlas.cz^$third-party
+||portal.rozhlas.cz^$third-party
+||informace.rozhlas.cz^$third-party
+||dvojka.rozhlas.cz^$third-party
+||www.pribehrozhlasu.cz^$third-party
+||radiozurnal.rozhlas.cz^$third-party
+||plus.rozhlas.cz^$third-party
+||regiony.rozhlas.cz^$third-party
+||wave.rozhlas.cz^$third-party
+||vltava.rozhlas.cz^$third-party
 
 ceskatelevize.cz^$third-party
 rozhlas.cz^$third-party
 irozhlas.cz^$third-party
 mujrozhlas.cz^$third-party
 radioteka.cz^$third-party
+ct24.ceskatelevize.cz^$third-party
+edu.ceskatelevize.cz^$third-party
+art.ceskatelevize.cz^$third-party
+decko.ceskatelevize.cz^$third-party
+sport.ceskatelevize.cz^$third-party
+digital.rozhlas.cz^$third-party
+poplatek.rozhlas.cz^$third-party
+temata.rozhlas.cz^$third-party
+portal.rozhlas.cz^$third-party
+informace.rozhlas.cz^$third-party
+dvojka.rozhlas.cz^$third-party
+www.pribehrozhlasu.cz^$third-party
+radiozurnal.rozhlas.cz^$third-party
+plus.rozhlas.cz^$third-party
+regiony.rozhlas.cz^$third-party
+wave.rozhlas.cz^$third-party
+vltava.rozhlas.cz^$third-party
 
 0.0.0.0 www.ceskatelevize.cz^$third-party
 0.0.0.0 www.rozhlas.cz^$third-party
@@ -65,3 +136,7 @@ radioteka.cz^$third-party
 0.0.0.0 www.pribehrozhlasu.cz^$third-party
 0.0.0.0 radiozurnal.rozhlas.cz^$third-party
 0.0.0.0 plus.rozhlas.cz^$third-party
+0.0.0.0 regiony.rozhlas.cz^$third-party
+0.0.0.0 wave.rozhlas.cz^$third-party
+0.0.0.0 vltava.rozhlas.cz^$third-party
+
