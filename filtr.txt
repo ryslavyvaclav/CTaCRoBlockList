@@ -25,6 +25,11 @@
 ||irozhlas.cz
 ||mujrozhlas.cz
 ||radioteka.cz
+ceskatelevize.cz
+rozhlas.cz
+irozhlas.cz
+mujrozhlas.cz
+radioteka.cz
 !||
 !||
 !
@@ -35,6 +40,11 @@
 ||irozhlas.cz^$third-party
 ||mujrozhlas.cz^$third-party
 ||radioteka.cz^$third-party
+ceskatelevize.cz^$third-party
+rozhlas.cz^$third-party
+irozhlas.cz^$third-party
+mujrozhlas.cz^$third-party
+radioteka.cz^$third-party
 !||
 !||
 !
