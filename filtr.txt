@@ -30,6 +30,13 @@ rozhlas.cz
 irozhlas.cz
 mujrozhlas.cz
 radioteka.cz
+
+0.0.0.0 ceskatelevize.cz
+0.0.0.0 rozhlas.cz
+0.0.0.0 irozhlas.cz
+0.0.0.0 mujrozhlas.cz
+0.0.0.0 radioteka.cz
+
 !||
 !||
 !
@@ -45,6 +52,13 @@ rozhlas.cz^$third-party
 irozhlas.cz^$third-party
 mujrozhlas.cz^$third-party
 radioteka.cz^$third-party
+
+0.0.0.0 ceskatelevize.cz^$third-party
+0.0.0.0 rozhlas.cz^$third-party
+0.0.0.0 irozhlas.cz^$third-party
+0.0.0.0 mujrozhlas.cz^$third-party
+0.0.0.0 radioteka.cz^$third-party
+
 !||
 !||
 !
