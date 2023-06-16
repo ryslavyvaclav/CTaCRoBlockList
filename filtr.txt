@@ -36,6 +36,19 @@ radioteka.cz
 0.0.0.0 irozhlas.cz
 0.0.0.0 mujrozhlas.cz
 0.0.0.0 radioteka.cz
+0.0.0.0 ct24.ceskatelevize.cz
+0.0.0.0 edu.ceskatelevize.cz
+0.0.0.0 art.ceskatelevize.cz
+0.0.0.0 decko.ceskatelevize.cz
+0.0.0.0 sport.ceskatelevize.cz
+0.0.0.0 digital.rozhlas.cz
+0.0.0.0 poplatek.rozhlas.cz
+0.0.0.0 temata.rozhlas.cz
+0.0.0.0 portal.rozhlas.cz
+0.0.0.0 informace.rozhlas.cz
+0.0.0.0 dvojka.rozhlas.cz
+0.0.0.0 pribehrozhlasu.cz
+0.0.0.0 radiozurnal.rozhlas.cz
 
 !||
 !||
@@ -58,7 +71,19 @@ radioteka.cz^$third-party
 0.0.0.0 irozhlas.cz^$third-party
 0.0.0.0 mujrozhlas.cz^$third-party
 0.0.0.0 radioteka.cz^$third-party
-
+0.0.0.0 ct24.ceskatelevize.cz^$third-party
+0.0.0.0 edu.ceskatelevize.cz^$third-party
+0.0.0.0 art.ceskatelevize.cz^$third-party
+0.0.0.0 decko.ceskatelevize.cz^$third-party
+0.0.0.0 sport.ceskatelevize.cz^$third-party
+0.0.0.0 digital.rozhlas.cz^$third-party
+0.0.0.0 poplatek.rozhlas.cz^$third-party
+0.0.0.0 temata.rozhlas.cz^$third-party
+0.0.0.0 portal.rozhlas.cz^$third-party
+0.0.0.0 informace.rozhlas.cz^$third-party
+0.0.0.0 dvojka.rozhlas.cz^$third-party
+0.0.0.0 pribehrozhlasu.cz^$third-party
+0.0.0.0 radiozurnal.rozhlas.cz^$third-party
 !||
 !||
 !
