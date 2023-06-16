@@ -18,12 +18,13 @@
 ||portal.rozhlas.cz^
 ||informace.rozhlas.cz^
 ||dvojka.rozhlas.cz^
-||www.pribehrozhlasu.cz^
+||pribehrozhlasu.cz^
 ||radiozurnal.rozhlas.cz^
 ||plus.rozhlas.cz^
 ||regiony.rozhlas.cz^
 ||wave.rozhlas.cz^
 ||vltava.rozhlas.cz^
+||plzen.rozhlas.cz^
 
 ceskatelevize.cz
 rozhlas.cz
@@ -110,7 +111,7 @@ vltava.rozhlas.cz^
 ||portal.rozhlas.cz^$third-party
 ||informace.rozhlas.cz^$third-party
 ||dvojka.rozhlas.cz^$third-party
-||www.pribehrozhlasu.cz^$third-party
+||pribehrozhlasu.cz^$third-party
 ||radiozurnal.rozhlas.cz^$third-party
 ||plus.rozhlas.cz^$third-party
 ||regiony.rozhlas.cz^$third-party
