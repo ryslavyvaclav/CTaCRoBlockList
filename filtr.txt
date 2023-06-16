@@ -2,28 +2,28 @@
 
 ! ----------------------------------- !
 
-||ceskatelevize.cz
-||rozhlas.cz
-||irozhlas.cz
-||mujrozhlas.cz
-||radioteka.cz
-||ct24.ceskatelevize.cz
-||edu.ceskatelevize.cz
-||art.ceskatelevize.cz
-||decko.ceskatelevize.cz
-||sport.ceskatelevize.cz
-||digital.rozhlas.cz
-||poplatek.rozhlas.cz
-||temata.rozhlas.cz
-||portal.rozhlas.cz
-||informace.rozhlas.cz
-||dvojka.rozhlas.cz
-||www.pribehrozhlasu.cz
-||radiozurnal.rozhlas.cz
-||plus.rozhlas.cz
-||regiony.rozhlas.cz
-||wave.rozhlas.cz
-||vltava.rozhlas.cz
+||ceskatelevize.cz^
+||rozhlas.cz^
+||irozhlas.cz^
+||mujrozhlas.cz^
+||radioteka.cz^
+||ct24.ceskatelevize.cz^
+||edu.ceskatelevize.cz^
+||art.ceskatelevize.cz^
+||decko.ceskatelevize.cz^
+||sport.ceskatelevize.cz^
+||digital.rozhlas.cz^
+||poplatek.rozhlas.cz^
+||temata.rozhlas.cz^
+||portal.rozhlas.cz^
+||informace.rozhlas.cz^
+||dvojka.rozhlas.cz^
+||www.pribehrozhlasu.cz^
+||radiozurnal.rozhlas.cz^
+||plus.rozhlas.cz^
+||regiony.rozhlas.cz^
+||wave.rozhlas.cz^
+||vltava.rozhlas.cz^
 
 ceskatelevize.cz
 rozhlas.cz
@@ -47,6 +47,29 @@ plus.rozhlas.cz
 regiony.rozhlas.cz
 wave.rozhlas.cz
 vltava.rozhlas.cz
+
+ceskatelevize.cz^
+rozhlas.cz^
+irozhlas.cz^
+mujrozhlas.cz^
+radioteka.cz^
+ct24.ceskatelevize.cz^
+edu.ceskatelevize.cz^
+art.ceskatelevize.cz^
+decko.ceskatelevize.cz^
+sport.ceskatelevize.cz^
+digital.rozhlas.cz^
+poplatek.rozhlas.cz^
+temata.rozhlas.cz^
+portal.rozhlas.cz^
+informace.rozhlas.cz^
+dvojka.rozhlas.cz^
+www.pribehrozhlasu.cz^
+radiozurnal.rozhlas.cz^
+plus.rozhlas.cz^
+regiony.rozhlas.cz^
+wave.rozhlas.cz^
+vltava.rozhlas.cz^
 
 0.0.0.0 www.ceskatelevize.cz
 0.0.0.0 www.rozhlas.cz
